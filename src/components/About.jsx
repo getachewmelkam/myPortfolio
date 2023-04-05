@@ -14,16 +14,18 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
+     My name  name is Getachew melkam,
+     I am undergraduate student.
+     throughout my eduaction i gained different skills of different programming languages like C++, C#, Java, PHP, Phython,
+     backend frameworks like Django , networking skills and network and information security skills like crptography that ensure the 
+     security of data and resources of the organizations.I have good experience in front end liberaries like react.
      
-     I had studied diffrent programming languages i.e 
-     java,c++,csharp and database courses.
-     I have little experiecne in react.
         </p>
 
         <br />
 
         <p className="text-xl">
-         I mainly love network admin and maintainance courses.
+          My passionate is ensuring the security of data and information of an organization and configuring network iinfrastructure
         </p>
       </div>
     </div>
