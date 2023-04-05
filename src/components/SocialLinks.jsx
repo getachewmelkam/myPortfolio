@@ -9,7 +9,7 @@ const SocialLinks = () => {
       id: 1,
       child: (
         <>
-          LinkedIn <FaLinkedin size={30} />
+          LinkedIn <gechabyssinia12@gmail.com size={30} />
         </>
       ),
       href: "https://linkedin.com",
