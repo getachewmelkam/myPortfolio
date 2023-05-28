@@ -9,10 +9,10 @@ const SocialLinks = () => {
       id: 1,
       child: (
         <>
-          LinkedIn <gechabyssinia12@gmail.com size={30} />
+          LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/getachew-melkam-anteneh-04b59a258",
       style: "rounded-tr-md",
     },
     {
