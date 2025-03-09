@@ -14,8 +14,10 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        My name is Getachew Melkam, I am graduate BSC degree student at 
-      university of Gondar from Information systems department. I have good programming an computer skill like word, excel and pptx.
+        My name is Getachew Melkam,
+Specializes in Information Systems, handling hardware and software maintenance, resolving network
+issues, troubleshooting printers, and designing websites. I manages time effectively, thrives in
+independent roles, and contributes efficiently as part of a team
       I passionate to develop my skill in cyber security. Team work and creativity makes me 
       happy all time.
      
