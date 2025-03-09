@@ -18,7 +18,7 @@ const About = () => {
 Specializes in Information Systems, handling hardware and software maintenance, resolving network
 issues, troubleshooting printers, and designing websites. I manages time effectively, thrives in
 independent roles, and contributes efficiently as part of a team
-      I passionate to develop my skill in cyber security. Team work and creativity makes me 
+     I passionate to develop my skill in cyber security. Team work and creativity makes me 
       happy all time.
      
         </p>
